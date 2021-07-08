@@ -1,0 +1,1 @@
+While there is no undo git init command, you can undo its effects by removing the . git/ folder from a project. You should only do this if you are confident in erasing the history of your repository that you have on your local machin
